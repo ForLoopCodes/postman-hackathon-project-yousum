@@ -64,11 +64,11 @@ body,
 }
 
 .markd code {
-  @apply bg-neutral-200 rounded px-1; /* Code styling */
+  @apply bg-neutral-700 rounded px-1; /* Code styling */
 }
 
 .markd pre {
-  @apply bg-neutral-800 text-white rounded p-4 overflow-auto mb-4; /* Preformatted text styling */
+  @apply bg-neutral-700 text-white rounded p-4 overflow-auto mb-4; /* Preformatted text styling */
 }
 @keyframes fade-in-animation {
   0% {
